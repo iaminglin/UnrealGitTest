@@ -1,3 +1,6 @@
 [Ss]aved/
-[Bb]inary/
+[Bb]inaries/
 [Ii]ntermediate/
+*.db
+*.sln
+*.suo
