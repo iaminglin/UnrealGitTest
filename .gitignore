@@ -1,5 +1,6 @@
 [Ss]aved/
 [Bb]inaries/
 [Ii]ntermediate/
-.db
-.sln
+*.db
+*.sln
+*.suo
